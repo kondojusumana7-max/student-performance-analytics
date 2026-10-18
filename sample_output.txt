@@ -1,0 +1,74 @@
+============================================================
+       STUDENT PERFORMANCE ANALYTICS SYSTEM
+============================================================
+
+Dataset loaded successfully: 20 student records.
+Departments found: CIVIL, CSE, ECE, EEE, MECH
+
+STUDENT-WISE RESULTS
+---------------------------------------------------------------------------------------------------------
+Student_ID           Name Department  Total_Marks  Average_Marks Grade Result  Attendance_Percent
+      S001   Aarav Sharma        CSE          444           88.8     A   Pass                  96
+      S002     Ananya Rao        ECE          410           82.0     A   Pass                  92
+      S003    Rohan Kumar        EEE          349           69.8     C   Pass                  85
+      S004    Priya Reddy        CSE          466           93.2    A+   Pass                  98
+      S005   Vikram Singh       MECH          296           59.2     D   Pass                  78
+      S006    Sneha Patel        ECE          421           84.2     A   Pass                  94
+      S007    Arjun Verma      CIVIL          242           48.4     F   Pass                  72
+      S008     Kavya Nair        CSE          449           89.8     A   Pass                  97
+      S009      Rahul Das        EEE          208           41.6     F   Pass                  68
+      S010     Meera Iyer        ECE          384           76.8     B   Pass                  90
+      S011   Aditya Joshi       MECH          317           63.4     C   Pass                  83
+      S012    Divya Menon        CSE          474           94.8    A+   Pass                  99
+      S013     Kiran Raju      CIVIL          235           47.0     F   Fail                  65
+      S014   Ishita Gupta        ECE          429           85.8     A   Pass                  93
+      S015    Manoj Naidu        EEE          283           56.6     D   Pass                  76
+      S016     Pooja Shah        CSE          405           81.0     A   Pass                  91
+      S017     Sanjay Roy       MECH          225           45.0     F   Pass                  70
+      S018    Neha Thomas        ECE          363           72.6     B   Pass                  88
+      S019     Varun Babu      CIVIL          441           88.2     A   Pass                  95
+      S020 Aditi Kulkarni        CSE          344           68.8     C   Pass                  82
+
+CLASS SUMMARY
+----------------------------------------
+Number of students : 20
+Class average      : 71.85
+Highest average    : 94.80
+Lowest average     : 41.60
+Students passed    : 19
+Students failed    : 1
+Average attendance : 85.60%
+
+SUBJECT-WISE AVERAGE MARKS
+----------------------------------------
+Math                : 68.40
+Physics             : 70.55
+Chemistry           : 71.30
+English             : 74.65
+Computer_Science    : 74.35
+
+Best-performing subject  : English (74.65)
+Lowest-average subject   : Math (68.40)
+
+TOP 3 PERFORMING STUDENTS
+-------------------------------------------------------
+Student_ID        Name  Average_Marks Grade
+      S012 Divya Menon           94.8    A+
+      S004 Priya Reddy           93.2    A+
+      S008  Kavya Nair           89.8     A
+
+Analysis results saved to: student_analysis_results.csv
+
+Analysis completed successfully!
+
+ERRORS:
+Spreadsheet runtime warmup failed during python startup
+Traceback (most recent call last):
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/patches/warm_spreadsheet_runtime_on_startup.py", line 26, in warm_spreadsheet_runtime_on_startup
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 785, in warm_spreadsheet_runtime
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 718, in _warm_feature_flows
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 509, in _warm_drawing_and_image_flows
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/generated/interface/models.py", line 32861, in bring_to_front
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/rpc/remote.py", line 764, in __call__
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/rpc/client.py", line 175, in call
+artifact_tool.rpc.client.RemoteError: Element ordering requires an owning element collection.

@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Math,Physics,Chemistry,English,Computer_Science,Attendance_Percent
+S001,Aarav Sharma,CSE,88,91,84,86,95,96
+S002,Ananya Rao,ECE,76,82,79,85,88,92
+S003,Rohan Kumar,EEE,65,70,68,72,74,85
+S004,Priya Reddy,CSE,93,95,91,89,98,98
+S005,Vikram Singh,MECH,54,61,58,63,60,78
+S006,Sneha Patel,ECE,81,78,85,90,87,94
+S007,Arjun Verma,CIVIL,42,48,51,56,45,72
+S008,Kavya Nair,CSE,89,86,92,88,94,97
+S009,Rahul Das,EEE,35,42,39,48,44,68
+S010,Meera Iyer,ECE,72,75,77,81,79,90
+S011,Aditya Joshi,MECH,61,57,64,69,66,83
+S012,Divya Menon,CSE,96,92,94,95,97,99
+S013,Kiran Raju,CIVIL,28,46,52,60,49,65
+S014,Ishita Gupta,ECE,84,88,80,86,91,93
+S015,Manoj Naidu,EEE,58,52,55,61,57,76
+S016,Pooja Shah,CSE,77,83,81,79,85,91
+S017,Sanjay Roy,MECH,47,39,42,51,46,70
+S018,Neha Thomas,ECE,68,72,74,76,73,88
+S019,Varun Babu,CIVIL,91,87,89,84,90,95
+S020,Aditi Kulkarni,CSE,63,67,71,74,69,82

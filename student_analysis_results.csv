@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Math,Physics,Chemistry,English,Computer_Science,Attendance_Percent,Total_Marks,Average_Marks,Grade,Result
+S001,Aarav Sharma,CSE,88,91,84,86,95,96,444,88.8,A,Pass
+S002,Ananya Rao,ECE,76,82,79,85,88,92,410,82.0,A,Pass
+S003,Rohan Kumar,EEE,65,70,68,72,74,85,349,69.8,C,Pass
+S004,Priya Reddy,CSE,93,95,91,89,98,98,466,93.2,A+,Pass
+S005,Vikram Singh,MECH,54,61,58,63,60,78,296,59.2,D,Pass
+S006,Sneha Patel,ECE,81,78,85,90,87,94,421,84.2,A,Pass
+S007,Arjun Verma,CIVIL,42,48,51,56,45,72,242,48.4,F,Pass
+S008,Kavya Nair,CSE,89,86,92,88,94,97,449,89.8,A,Pass
+S009,Rahul Das,EEE,35,42,39,48,44,68,208,41.6,F,Pass
+S010,Meera Iyer,ECE,72,75,77,81,79,90,384,76.8,B,Pass
+S011,Aditya Joshi,MECH,61,57,64,69,66,83,317,63.4,C,Pass
+S012,Divya Menon,CSE,96,92,94,95,97,99,474,94.8,A+,Pass
+S013,Kiran Raju,CIVIL,28,46,52,60,49,65,235,47.0,F,Fail
+S014,Ishita Gupta,ECE,84,88,80,86,91,93,429,85.8,A,Pass
+S015,Manoj Naidu,EEE,58,52,55,61,57,76,283,56.6,D,Pass
+S016,Pooja Shah,CSE,77,83,81,79,85,91,405,81.0,A,Pass
+S017,Sanjay Roy,MECH,47,39,42,51,46,70,225,45.0,F,Pass
+S018,Neha Thomas,ECE,68,72,74,76,73,88,363,72.6,B,Pass
+S019,Varun Babu,CIVIL,91,87,89,84,90,95,441,88.2,A,Pass
+S020,Aditi Kulkarni,CSE,63,67,71,74,69,82,344,68.8,C,Pass
